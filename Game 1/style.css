@@ -1,0 +1,9 @@
+    * {
+        margin: 30px 80px;
+    }
+    
+    button {
+        background-color: rgb(111, 20, 197);
+        border-radius: 10px;
+        padding: 10px;
+    }
